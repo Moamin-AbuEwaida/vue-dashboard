@@ -17,14 +17,28 @@
       </svg>
     </div>
     <div class="flex items-center gap-10">
-      <a class="text-white font-medium" href="#home">Home</a>
-      <a class="text-white font-medium" href="#category">Category</a>
-      <a class="text-white font-medium" href="#about">About</a>
-      <a class="text-white font-medium" href="#trick-or-treat"
+      <a
+        class="text-white font-medium border-white hover:border-b-2 transition-all"
+        href="#home"
+        >Home</a
+      >
+      <a
+        class="text-white font-medium border-white hover:border-b-2 transition-all"
+        href="#category"
+        >Category</a
+      >
+      <a
+        class="text-white font-medium border-white hover:border-b-2 transition-all"
+        href="#about"
+        >About</a
+      >
+      <a
+        class="text-white font-medium border-white hover:border-b-2 transition-all"
+        href="#trick-or-treat"
         >Trick or Treat</a
       >
       <button
-        class="px-4 py-2 rounded-full bg-secondary text-white font-bold text-lg"
+        class="px-6 py-2 rounded-full bg-secondary text-white font-bold text-lg hover:text-secondary hover:bg-white transition"
       >
         Donate
       </button>

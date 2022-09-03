@@ -7,7 +7,7 @@
     scroll-behavior: smooth;
   }
   body {
-    background-image: linear-gradient(to bottom, #02889b, #06c2ae);
+    background-image: linear-gradient(to bottom, #02889b, #8ff2e8);
     min-height: 100vh;
   }
 }
