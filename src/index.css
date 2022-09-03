@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    background-image: linear-gradient(to bottom, #02889b, #06c2ae);
+    min-height: 100vh;
+  }
+}
